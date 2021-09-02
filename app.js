@@ -1,4 +1,4 @@
-const samples_data = "https://raw.githubusercontent.com/Luceroap/jshomework.io/main/samples.json"
+const samples_data = "https://raw.githubusercontent.com/Luceroap/jshomework.io/main/samples.json";
 
 let samples = ['a'];
 let metadata = [];
